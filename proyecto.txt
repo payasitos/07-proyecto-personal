@@ -1,1 +1,24 @@
+nombre: calaquitas
 
+descripcion en general: una pagina personal, de presentacion, que incluya una descripcion de mi, mis gustos, mis hobbies, mis creaciones y tambien un historial de mi aprendizaje en la programacion. Se destinara a quienes quieran conocerme pero principalmente para crear mi propio lugar donde guardar recuerdos y aprender :º)
+
+objetivos del proyecto: tener mi propio espacio donde experimentar, probar y aprender sobre la programacion.
+
+secciones de la pagina:
+
+    pricipio: una presentacion general sobre la pagina con un navegador por sus diferentes secciones
+    about me: una presentacion sobre mi, mis intereses, amistades y hobbies
+    playlist: un lugar donde hablar de mis gustos musicales
+    repositorio de arte: un lugar donde guardar mis dibujos favoritos
+    repositorio de personajes: una breve descripcion de los personajes y diseños que he creado
+    historial de la pagina: un archivo de como va cambiando la pagina
+    
+recursos, ¿que necesito?
+    
+      -un logo
+      -un header
+      -un pagedoll
+      -una paleta de colores
+      -imagenes de decoracion
+      -toda la informacion
+      -un software donde crear la pagina (neocities)
