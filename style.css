@@ -1,12 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
+
 body {
 
-    background-image: url('https://i.pinimg.com/originals/75/1e/94/751e94cb7c42b58d75e3779111a65486.gif');
+    background-image: url('https://data.whicdn.com/images/272210897/original.gif');
     background-size: cover;
 }
 
-.p {
+#header {
+
+    width: 900px;
+    margin-top: 20px;
+    background-color: #0f99bb;
+
+}
+
+#p {
 
     background-color: #7f5adb;
-    margin: #d5c9f2;
+    width: 500px;
+    height: 150px;
+    border: 5px #d5c9f2;
+    margin-top: 20px;
 
+}
+
+#p2 {
+
+    background-color: white;
+    padding: 20px;
+    font-family: 'Hind', sans-serif;
+
+}
+
+#texto {
+
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    font-size: 7ch;
+
+}
+
+#blanco {
+
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
