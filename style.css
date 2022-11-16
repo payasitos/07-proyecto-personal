@@ -15,20 +15,25 @@ body {
 
 }
 
-#p {
+#blanco {
+
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 900px;
+
+}
+
+#principal {
 
     background-color: #7f5adb;
-    width: 500px;
-    height: 150px;
-    border: 5px #d5c9f2;
     margin-top: 20px;
 
 }
 
-#p2 {
+#informatico {
 
     background-color: white;
-    padding: 20px;
     font-family: 'Hind', sans-serif;
 
 }
@@ -41,9 +46,15 @@ body {
 
 }
 
-#blanco {
+#nav {
 
-    background-color: white;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    background-color: #0f99bb;
+    margin-top: 20px;
+
+}
+
+#buttom {
+
+    background-color: #d5c9f2;
+
 }
