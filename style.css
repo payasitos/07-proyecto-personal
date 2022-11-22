@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body {
+
+    background-image: url('https://data.whicdn.com/images/272210897/original.gif');
+    background-size: cover;
+}
+
+#header {
+
+    width: 900px;
+    margin-top: 20px;
+    background-color: #0f99bb;
+
+}
+
+#blanco {
+
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 900px;
+
+}
+
+#principal {
+
+    background-color: #7f5adb;
+    margin-top: 20px;
+
+}
+
+#informatico {
+
+    background-color: white;
+    font-family: 'patrick hand', sans-serif;
+
+}
+
+#texto {
+
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    font-size: 7ch;
+
+}
+
+#nav {
+
+    background-color: #0f99bb;
+    margin-top: 20px;
+
+}
+
+#buttom {
+
+    font-family: 'patrick hand', sans-serif;
+    font-size: 30px;
+    color: white;
+    background-color: #7f5adb;
+
+}
+
+#buttom2 {
+
+    font-family: 'patrick hand', sans-serif;
+    font-size: 30px;
+    color: white;
+    background-color: #406DCC;
+
+}
+
+#buttom3 {
+
+    font-family: 'patrick hand', sans-serif;
+    font-size: 30px;
+    color: white;
+    background-color: #40CC50;
+
+}
+
+#buttom4 {
+
+    font-family: 'patrick hand', sans-serif;
+    font-size: 30px;
+    color: white;
+    background-color: #F7C15C;
+
+}
+
+#buttom5 {
+
+    font-family: 'patrick hand', sans-serif;
+    font-size: 30px;
+    color: white;
+    background-color: #FF6B3F;
+
+}
+
+#buttom6 {
+
+    font-family: 'patrick hand', sans-serif;
+    font-size: 30px;
+    color: white;
+    background-color: #E33139;
+
+}
+
+#titulos {
+
+    font-family: 'patrick hand', sans-serif;
+    font-size: 30px;
+    color: #0f99bb;
+
+}
+
+#texto1 {
+
+    font-family: 'patrick hand', sans-serif;
+    font-size: 20px;
+    color: #0f99bb;
+
+}
+
+#scroll-box {
+    background: #f4f4f4;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    height: 400px;
+    padding: 15px;
+    overflow-y: scroll;
+}
+
+#valentino {
+
+    /*background-color: #124EA6;*/
+    font-family: 'Times New Roman', Times, serif;
+    color: #131430;
+
+}
+
+#sanford {
+
+    /*background-color: #0f99bb;*/
+    font-family: 'patrick hand', sans-serif;
+    color: #131430;
+
+}
