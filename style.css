@@ -55,6 +55,48 @@ body {
 
 #buttom {
 
-    background-color: #d5c9f2;
+    font-family: 'Hind', sans-serif;
+    font-size: 30px;
+    background-color: #7f5adb;
+
+}
+
+#buttom2 {
+
+    font-family: 'Hind', sans-serif;
+    font-size: 30px;
+    background-color: #406DCC;
+
+}
+
+#buttom3 {
+
+    font-family: 'Hind', sans-serif;
+    font-size: 30px;
+    background-color: #40CC50;
+
+}
+
+#buttom4 {
+
+    font-family: 'Hind', sans-serif;
+    font-size: 30px;
+    background-color: #F7C15C;
+
+}
+
+#buttom5 {
+
+    font-family: 'Hind', sans-serif;
+    font-size: 30px;
+    background-color: #FF6B3F;
+
+}
+
+#buttom6 {
+
+    font-family: 'Hind', sans-serif;
+    font-size: 30px;
+    background-color: #E33139;
 
 }
